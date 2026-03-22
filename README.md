@@ -99,3 +99,7 @@ python3 inject_heavy_usage.py
 ## Current State
 
 This repository is a prototype-oriented project rather than a packaged library. The code is organized around scripts that operate on local files in the project directory, especially `usage.csv` and the generated model artifacts.
+
+## Contributors
+
+- [karthikreddynyalapatla](https://github.com/karthikreddynyalapatla)
